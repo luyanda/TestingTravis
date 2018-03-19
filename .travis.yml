@@ -1,1 +1,3 @@
 cplanguage: java
+jdk: oraclejdk8
+install: ant deps
